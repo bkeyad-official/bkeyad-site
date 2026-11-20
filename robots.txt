@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bkeyad.co.kr/sitemap.xml
